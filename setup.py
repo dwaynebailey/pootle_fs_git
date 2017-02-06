@@ -62,9 +62,9 @@ setup(
     version='0.0.1',
     description='Pootle file system plugins',
     long_description="Integration between Pootle and FS backends",
-    url='https://github.com/phlax/pootle_fs_git',
-    author='Ryan Northey',
-    author_email='ryan@synca.io',
+    url='https://github.com/translate/pootle_fs_git',
+    author="Translate",
+    author_email="dev@translate.org.za",
     license='GPL3',
     classifiers=[
         'Development Status :: 3 - Alpha',
