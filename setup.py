@@ -70,8 +70,12 @@ setup(
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
-        'License :: OSI Approved :: GPL3',
+        "License :: OSI Approved :: "
+        "GNU General Public License v3 or later (GPLv3+)",
+        'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
+        "Topic :: Software Development :: Localization",
+        'Topic :: Software Development :: Version Control',
     ],
     keywords='pootle filesystem plugins',
     packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
